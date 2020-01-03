@@ -5,4 +5,4 @@
 
 
 class EmailParser 
-  
+  def initialize email ""
